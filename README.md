@@ -1,6 +1,6 @@
 # Real Madrid
 
-##Structure
+## Structure
 
 Luka Modric
 
@@ -10,7 +10,7 @@ Federico Valverde
 
 Vinicius Jr
 
-##Number
+## Number
 
 10
 
